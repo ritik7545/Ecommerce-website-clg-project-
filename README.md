@@ -18,10 +18,10 @@ To deploy this project run
  
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** html, bootstraps 5
 
 
-## Documentation
+## See full documentation 
 
 [Documentation](https://drive.google.com/file/d/1nnokW5n9tY0S5HoO8IUT9y12nIUqpkF4/view?usp=sharing)
 
