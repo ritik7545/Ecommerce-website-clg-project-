@@ -21,8 +21,9 @@ To deploy this project run
 **Client:** React, Redux, TailwindCSS
 
 ## Screenshots
+![image](https://github.com/user-attachments/assets/9cb64987-4ece-4ae5-bf34-02176d3fd471)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](![alt text](image.png))
+
 
 
 
