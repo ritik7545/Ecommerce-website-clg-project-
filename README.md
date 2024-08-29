@@ -20,12 +20,21 @@ To deploy this project run
 
 **Client:** React, Redux, TailwindCSS
 
+
+## Documentation
+
+[Documentation](https://drive.google.com/file/d/1nnokW5n9tY0S5HoO8IUT9y12nIUqpkF4/view?usp=sharing)
+
+
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/9cb64987-4ece-4ae5-bf34-02176d3fd471)
 ![Screenshot ](https://github.com/user-attachments/assets/59430845-174a-4fc0-ad55-631d1360440e)
 ![Screenshot 1](https://github.com/user-attachments/assets/411a9f18-f498-4348-a1fc-b530f49df3de)
 ![Screenshot 2](https://github.com/user-attachments/assets/6b6e9584-e781-4659-8dc4-d1809a6e4d4c)
 ![Screenshot 3](https://github.com/user-attachments/assets/5532322e-5176-447f-954b-529bea4f724e)
+![ss](https://github.com/user-attachments/assets/b173f37a-f1bc-49a2-b103-8167fe33b31c)
+![error](https://github.com/user-attachments/assets/bc272685-536c-4fbf-9b04-a1a1b7a45535)
 
 
 
